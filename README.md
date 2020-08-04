@@ -1,7 +1,7 @@
 # Block-Pursuit
 An intense JavaFX game. Try and avoid the AI; the longer you survive, the higher your score and the faster sprites move. Different modes and maps. Fun music.
 
-AI uses a new pathfinding method, which I call the "lilypad method". The user can toggle ON/OFF if the "lilypads" are visible. Bascially, the pathfinding works by
+AI uses a new pathfinding method, which I call the "lilypad method". The user can toggle ON/OFF if the "lilypads" are visible. Basically, the pathfinding works by
 continuously checking if a path straight to the destination is safe and reassessing to a new destination. The con of this method is that the "lilpads", where the AI can reset 
 its destination, must be set before running. The pro is that the lilypad method run VERY quickly, even compared to A*!
 
