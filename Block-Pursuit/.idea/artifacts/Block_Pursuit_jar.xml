@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Block-Pursuit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Block_Pursuit_jar</output-path>
+    <root id="archive" name="Block-Pursuit.jar">
+      <element id="module-output" name="Block-Pursuit" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/14/javafx-controls-14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/14/javafx-controls-14-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/14/javafx-base-14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/14/javafx-base-14-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/14/javafx-media-14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/14/javafx-media-14-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/14/javafx-fxml-14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/14/javafx-fxml-14-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/JavaFX/javafx-sdk-14.0.2.1/lib/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
